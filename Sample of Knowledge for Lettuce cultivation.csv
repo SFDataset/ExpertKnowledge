@@ -1,0 +1,28 @@
+Day,Crops Maintenance Process,,,,,
+,Irrigation,Fertilizer Application,Weeds Control,Insect Pests Control,Diseases Control,Pruning
+1 (Seeding Planting),Irrigate 2 times ,No fertilizer application,No weeds occurrence,No attack from insects,No disease issues,No pruning
+,.- Morning: before 8 am,,,,,
+,.- Evening: between 3.30pm-5pm,,,,,
+,See soil a litle moisted,,,,,
+2 (Seeding Planting),Irrigate 2 times ,No fertilizer application,No weeds occurrence,No attack from insects,No disease issues,No pruning
+,.- Morning: before 8 am,,,,,
+,.- Evening: between 3.30pm-5pm,,,,,
+,See soil a litle moisted,,,,,
+,,,,,,
+14 (Seedling),Irrigate 2 times ,Apply fertilizer and control EC value between 1.2-1.4 ms/cm,Check weeds everyday,"Might be attack from insects, should cover by the net",Spray Calcium and Boron 1-2 time/week to protect the Tip burn issue,Prune the leaf that has brown spot and got yellow leaf
+,.- Morning: before 8 am,,,,,
+,.- Evening: between 3.30pm-5pm,,,,,
+,See soil moisted,,,,,
+17 (Mature),Irrigate 2 times ,Apply fertilizer and control EC value between 1.0-1.1 ms/cm,Check weeds everyday,"Might be attack from insects, should cover by the net",Spray Calcium and Boron 1-2 time/week to protect the Tip burn issue,Prune the leaf that has brown spot and got yellow leaf
+,.- Morning: before 8 am,,,,,
+,.- Evening: between 3.30pm-5pm,,,,,
+,See soil moisted,,,,,
+,,,,,,
+30 (Pre-Harvest),Irrigate 2 times ,Stop to apply fertilizer and control EC value lower than 0.5 ms/cm,Check weeds everyday,"Might be attack from insects, should cover by the net",Spray Calcium and Boron 1-2 time/week to protect the Tip burn issue,No pruning
+,.- Morning: before 8 am,,,,,
+,.- Evening: between 3.30pm-5pm,,,,,
+,See soil quite moisted,,,,,
+45 (Pre-Harvest),Irrigate 2 times ,No fertilizer application,Check weeds everyday,"Might be attack from insects, should cover by the net",Spray Calcium and Boron 1-2 time/week to protect the Tip burn issue,No pruning
+,.- Morning: before 8 am,,,,,
+,.- Evening: between 3.30pm-5pm,,,,,
+,See soil quite moisted,,,,,
